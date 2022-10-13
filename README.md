@@ -58,8 +58,9 @@
 
 <br/>
 
-
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=LucasMendesz&label=Profile%20views&color=0e75b6&style=flat" alt="LucasMendesz" /> </p>
+
+<h3 align="left" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3> 
 
 
 
