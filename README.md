@@ -59,7 +59,7 @@
 <br/>
 
 
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="LucasMendesz" /> </p>
+<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=LucasMendesz&label=Profile%20views&color=0e75b6&style=flat" alt="LucasMendesz" /> </p>
 
 
 
