@@ -6,7 +6,7 @@
  Hi there,I'm Lucas Mendes! 
  <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  />
 </h1>
-<hr>
+
 
 <h2>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h2>
 <p align="center">
