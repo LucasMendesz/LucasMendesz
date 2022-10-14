@@ -14,7 +14,7 @@
 
 <h2 align="center">
  Hi there,I'm Lucas Mendes! 
- <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  />
+ <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="20px" style="margin-bottom: -5px;"  />
 </h2>
 
 <h2 align="center">
