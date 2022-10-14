@@ -27,6 +27,9 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendes-0107b61a8/)
 </h2>
 
+<div id="gif" align="center">
+<img  alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+</div>
 
 <h2>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h2>
 <p align="center">
