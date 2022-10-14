@@ -19,9 +19,9 @@
 
 <h2 align="center">
 
-  Connect ith me:
+  Connect with me:
   
-[![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jefferson.simao.goncalves/)
+[![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009230947183)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffersonsimaogoncalves/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:gerson.simao.92@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
