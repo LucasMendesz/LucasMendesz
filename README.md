@@ -70,7 +70,7 @@
 
 [![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/lucasmendesql)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/lucasmendesql)
-[![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/lucasmendesql)
+
 
 > Software and tools.
 
