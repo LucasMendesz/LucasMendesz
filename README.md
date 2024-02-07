@@ -2,8 +2,8 @@
     
     
 ![](https://komarev.com/ghpvc/?username=lucasmendeshy)
-    <img  src="https://img.shields.io/github/followers/lucasmendeshy?label=Follow" alt="LinkedIn Badge" target="_blank"/>
-    <img src="https://img.shields.io/github/stars/lucasmendeshy?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge" target="_blank"/>
+    <img  src="https://img.shields.io/github/followers/lucasmendeshy?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/stars/lucasmendeshy?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
     
   </div>
 
@@ -16,10 +16,9 @@
  Hi there,I'm Lucas Mendes! 
 </h2>
 
-<h2 align="center">
+<h2 align="center" target="_blank">
 
   Connect with me:
-  
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511983125076)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmendeshy/)
 </h2>
