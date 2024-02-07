@@ -2,8 +2,8 @@
     
     
 ![](https://komarev.com/ghpvc/?username=lucasmendeshy)
-    <img  src="https://img.shields.io/github/followers/lucasmendeshy?label=Follow" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/github/stars/lucasmendeshy?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+    <img  src="https://img.shields.io/github/followers/lucasmendeshy?label=Follow" alt="LinkedIn Badge" target="_blank"/>
+    <img src="https://img.shields.io/github/stars/lucasmendeshy?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge" target="_blank"/>
     
   </div>
 
